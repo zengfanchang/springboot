@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T03:09:13.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="3Fs5gE312LWvePC7MPWC" version="16.6.4" type="github"><diagram id="DJDj2V_HymH8ffie8d9I" name="Page-1">1VjbbqMwEP0aPzYCzMU8moRs1c2qlaq9Pa2s4A1UJEaOc9uv3zEYCCGtmq1asi+tPZ4Z2+ecsR0QHi/3nyQr0i8i4TlyrGSP8AQ5ju06FvzTlkNlIditDAuZJcapNTxmf7gxmrjFJkv4uuOohMhVVnSNc7Fa8bnq2JiUYtd1+y3y7qwFW/Ce4XHO8r71e5ao1OzCCVr7Lc8WaT2z7YfVyJLVzmYn65QlYndkwjHCYymEqlrL/ZjnGrwalypu+sxoszDJV+o1AfJudk9+zab02+f56jYrvhbx7MZk2bJ8Yzb8cH93j2KCoikiAYoDRAkikdmCOtS47NJM8ceCzXV/B9wjHKVqmUPPhqZJy6Xi+2fXazcogHy4WHIlD+BiAhoJGOX4prtrabBrbNMjCmo/ZphfNJlbcKBh8LkAK9IDgSegFdMVUqViIVYsj1trJMVmlXCd1YJe6zMTojBQPXGlDkb4bKPEOSD1RJfCKHnOVLbtxp0DxYQ+iAwyNvC7uAu/Y3ndFGuxkXNuoo51d5LIJieJwpNEiskFV71EVEp2OHIrtMP6ggW73mXr6vpDo1pBK5gG3H/XUDiEhkAp8vBDx498x6sNP8FwY40sP6gtk72Zo+odjnsPXGaweS6N8bW6hL2WOnkBE8cc66UMXvBz36jzNxV/fRgNxpznkWPmgDiM/xPivEGJs4cmri2wuuTel7nrvQp8n4ws9+Q2wCPLuYoLAVb38ReC03uAodhFEUEhRbGHCEXURrGvX2G64aFwgsKgJ+lWsFp97/84w0EXW9sd+nWGe0DCTwIlRZ5DAQFukY0IYDtF0bjEFl64LgqnpkFx2bAQwfrNG7oacICdxIh6JRFT7TM07A2kTfUMDbvbg70QT0IjRmMUxqWYQbH4CHkYgnZYkkI11IAzvAkBfA34RAeaIWxqgU5KUigirrHA280M0TNzDU0Ttq6NJq9H05IVha6MhhYgwS9pgb9YE9KXf+VMxi8y5uuq0lFE80wdTV0U1UNA1Hhwflz/2vjxe/ysudxmAMGZo6tEntglwhgRr6Yy0J4AdVsrV3eA+VdXGcEzlTHa6303pwstT5cQkdAMP7EtQ3GoP5Loggj1xVyJvcH+pJ6Gxt4jH3dnQ7f9slW9ldrvgzj+Cw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-10T08:34:26.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="4Dq7NJIXzdqyly6iIlYQ" version="16.6.4" type="github">
+  <diagram id="DJDj2V_HymH8ffie8d9I" name="Page-1">
+    <mxGraphModel dx="1420" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-1" value="POJO过程" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="205" as="sourcePoint" />
+            <mxPoint x="180" y="295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="245" />
+              <mxPoint x="180" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rJLO8_LFAVKcnHipUpEL-2" target="rJLO8_LFAVKcnHipUpEL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rJLO8_LFAVKcnHipUpEL-2" target="rJLO8_LFAVKcnHipUpEL-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="205" as="sourcePoint" />
+            <mxPoint x="668.04" y="293.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="245" />
+              <mxPoint x="668" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-2" value="业务模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-3" value="controller层：负责调用接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-4" value="pojo实体：对应数据库中的一个实体" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-5" value="mapper：方法接口，数据库查询结果" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-6" value="service层：封装mapper类的接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJLO8_LFAVKcnHipUpEL-7" value="mapper.xml:定义mapper.java里面的方法" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
